@@ -9,6 +9,27 @@ This project currently covers:
 
 ---
 
+## Test Execution Video
+
+A recorded Playwright test execution has been added to the project.
+
+You can view the full video here:
+
+**Path:**  
+src/domain/assets/videos/b-labsTC.mp4
+
+
+
+To watch it directly on GitHub, open the file in the repo and GitHub will display the embedded video player.
+
+This video demonstrates:
+- Navigating to the B.TECH homepage
+- Searching for a device from test data
+- Opening the product page
+- Adding the product to cart
+- Navigating to the cart successfully
+---
+
 ## Tech Stack
 
 * **Language:** TypeScript
